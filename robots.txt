@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-aaunoh.pulaucuansite.xyz/sitemap.xml
